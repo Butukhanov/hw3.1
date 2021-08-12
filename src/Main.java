@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         int price = 1_000;
-        int theNumberOfRublesForOneBonusMilli = 20;
-        int bonus = price / theNumberOfRublesForOneBonusMilli;
+        int theNumberOfRublesForOneBonusMile = 20;
+        int bonus = price / theNumberOfRublesForOneBonusMile;
         System.out.println(bonus);
     }
 }
